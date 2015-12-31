@@ -1,0 +1,3 @@
+# securemail
+
+Mass mail sender
