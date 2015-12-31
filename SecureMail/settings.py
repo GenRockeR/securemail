@@ -87,7 +87,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'securemail',
         'USER': 'root',
-        'PASSWORD': '4eLOve4iwe4e',
+        'PASSWORD': '',
         'HOST': '127.0.0.1',
         'PORT': '',
     }
