@@ -1,0 +1,12 @@
+chardet
+Django
+django-ckeditor
+django-favicon
+django-multi-email-field
+django-redis-sessions
+django-registration
+mysql-connector-python
+MySQL-python
+redis
+requests
+sorl-thumbnail
